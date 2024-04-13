@@ -8,4 +8,4 @@
 
 ## webshell查杀
 
-![image-20240413223246745](/home/kali/.config/Typora/typora-user-images/image-20240413223246745.png)
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/27874700/1713018919770-1ab5e58e-0ecf-491e-9ea8-806fff63eb83.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0)
